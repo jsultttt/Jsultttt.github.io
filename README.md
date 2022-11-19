@@ -8,4 +8,4 @@ games
 
 
 
-<a href="sammycheez.com">1v1.lol</a>
+<a href="1v1.lol">1v1.lol</a>
